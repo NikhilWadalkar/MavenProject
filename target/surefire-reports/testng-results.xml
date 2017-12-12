@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2017-12-12T16:15:08Z" finished-at="2017-12-12T16:15:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2017-12-12T16:15:08Z" finished-at="2017-12-12T16:15:08Z">
+      <class name="maven.com.DemoClass">
+        <test-method status="PASS" signature="demoMethod()[pri:0, instance:maven.com.DemoClass@735f7ae5]" name="demoMethod" duration-ms="12" started-at="2017-12-12T21:45:08Z" finished-at="2017-12-12T21:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoMethod -->
+        <test-method status="PASS" signature="propertyFie()[pri:0, instance:maven.com.DemoClass@735f7ae5]" name="propertyFie" duration-ms="1" started-at="2017-12-12T21:45:08Z" finished-at="2017-12-12T21:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyFie -->
+      </class> <!-- maven.com.DemoClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
