@@ -28,4 +28,12 @@ public class DemoClass implements Property{
 		System.out.println("Data from interface property file" +name );
 		System.out.println("Data from property file" +pro.getProperty("name") );
 	}
+	
+	
+	@Test
+	public void laiBorezale()
+	{
+		System.out.println("laiBorezale" );
+		
+	}
 }
